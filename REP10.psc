@@ -1,3 +1,6 @@
+/// 00586943 Freddy Alexandro Torres Lopez 
+/// Ing. TI
+
 Algoritmo REP10
 	Definir i, sumaPares, sumaImpares, contPares, contImpares Como Entero
 	Definir mediaPares, mediaImpares Como Real
@@ -20,8 +23,8 @@ Algoritmo REP10
 	mediaPares <- sumaPares / contPares
 	mediaImpares <- sumaImpares / contImpares
 	
-	Escribir "Suma de números pares: ", sumaPares
-	Escribir "Media de números pares: ", mediaPares
-	Escribir "Suma de números impares: ", sumaImpares
-	Escribir "Media de números impares: ", mediaImpares
+	Escribir "Suma de nÃºmeros pares: ", sumaPares
+	Escribir "Media de nÃºmeros pares: ", mediaPares
+	Escribir "Suma de nÃºmeros impares: ", sumaImpares
+	Escribir "Media de nÃºmeros impares: ", mediaImpares
 FinAlgoritmo
