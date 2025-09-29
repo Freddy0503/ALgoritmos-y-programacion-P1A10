@@ -1,3 +1,6 @@
+/// 00586943 Freddy Alexandro Torres Lopez 
+/// Ing. TI
+
 Algoritmo REP04
 	Definir i Como Entero
 	
