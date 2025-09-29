@@ -1,3 +1,6 @@
+/// 00586943 Freddy Alexandro Torres Lopez 
+/// Ing. TI
+
 Algoritmo REP08
 	Definir i, suma Como Entero
 	suma <- 0
@@ -6,5 +9,5 @@ Algoritmo REP08
 		suma <- suma + (i * i)
 	FinPara
 	
-	Escribir "La suma de los cuadrados de los 100 primeros números es: ", suma
+	Escribir "La suma de los cuadrados de los 100 primeros nÃºmeros es: ", suma
 FinAlgoritmo
