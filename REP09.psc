@@ -1,7 +1,10 @@
+/// 00586943 Freddy Alexandro Torres Lopez 
+/// Ing. TI
+
 Algoritmo REP09
 	Definir N, Suma Como Reales;
 	Definir I Como Entero;
-	Escribir "DEBE INTRODUCIR 10 DATOS, SE SUMAR¡N SOLO LOS NEGATIVOS";
+	Escribir "DEBE INTRODUCIR 10 DATOS, SE SUMAR√ÅN SOLO LOS NEGATIVOS";
 	Suma <- 0;
 	Para I <- 1 Hasta 10 Hacer
 		Escribir "Introduzca el dato ", I, ": ";
@@ -10,5 +13,5 @@ Algoritmo REP09
 			Suma <- Suma +N;
 		FinSi
 	FinPara
-	Escribir "El resultado de la suma de los n˙meros negativos es: ", Suma;
+	Escribir "El resultado de la suma de los n√∫meros negativos es: ", Suma;
 FinAlgoritmo
